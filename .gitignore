@@ -1,6 +1,6 @@
 # Creado por https://www.toptal.com/developers/gitignore/api/python,eclipse,java
 # Editar en https://www.toptal.com/developers/gitignore?templates=python,eclipse,java
-.project
+*.project
 
 ### Eclipse ###
 .metadatos
